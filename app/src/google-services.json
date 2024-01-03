@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453903257575",
+    "project_id": "ctis487-project",
+    "storage_bucket": "ctis487-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453903257575:android:5cefe6a91314918692b742",
+        "android_client_info": {
+          "package_name": "com.example.financetrackerapp_ctis487_team6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNs1m84v4SdIgHfD3Xw09Ee061x8khjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
